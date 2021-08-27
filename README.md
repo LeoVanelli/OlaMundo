@@ -1,6 +1,9 @@
 # OlaMundo
 
-Saída via Console 2 
+* 🖥️ Exercício: Saída via Console 2 
+* 🏫 Instituição: Etec Adolpho Berezin
+* 👨‍🏫 Orientadores: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/saida.md
 
 ## Enunciado
 
